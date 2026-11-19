@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=3&section=footer" width="100%"/>
+  <br/><br/>
+</p>
 Hi, I'm Mahyar 👋
 
 Computer Engineering Student | Aspiring Backend Developer
@@ -60,3 +64,4 @@ Technology| Progress| Level
 <p align="center">
   <i>Thanks for visiting my profile!</i>
 </p>
+  <sub>© 2026 · Built with curiosity & code.</sub>
