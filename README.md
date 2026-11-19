@@ -19,6 +19,7 @@ Currently, I'm focusing on C# and the .NET ecosystem, while developing my progra
 An honest snapshot of what I'm currently learning and working with.
 
 Technology| Progress| Level
+
 <img src="https://skillicons.dev/icons?i=cs" width="22"/> C#| ▰▰▱▱▱| Learning
 <img src="https://skillicons.dev/icons?i=dotnet" width="22"/> .NET| ▰▰▱▱▱| Learning
 <img src="https://skillicons.dev/icons?i=c" width="22"/> C| ▰▰▰▱▱| Familiar
