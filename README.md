@@ -39,15 +39,18 @@ Technology| Progress| Level
 ### 🚀📚 Exploring the Future
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet" width="25" />
-  &nbsp; ASP.NET Core
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="25"/>
+&nbsp; ASP.NET Core
   <br/>
-  <img src="https://skillicons.dev/icons?i=mssql" width="25" />
-  &nbsp; SQL Server
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="25"/>
+&nbsp; SQL Server
   <br/>
-  <img src="https://skillicons.dev/icons?i=ef" width="25" />
-  &nbsp; Entity Framework Core
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg" width="25"/>
+&nbsp; Entity Framework Core
   <br/>
+  
   <img src="https://skillicons.dev/icons?i=postman" width="25" />
   &nbsp; REST API
 </p>
