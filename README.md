@@ -1,7 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=3&section=footer" width="100%"/>
-  <br/><br/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:5865F2,100:8A2BE2&height=120&section=footer" width="100%"/>
+<br/>
+
 Hi, I'm Mahyar 👋
 
 Computer Engineering Student | Aspiring Backend Developer
