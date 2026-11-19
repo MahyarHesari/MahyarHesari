@@ -21,23 +21,29 @@ An honest snapshot of what I'm currently learning and working with.
 Technology| Progress| Level
 
 <img src="https://skillicons.dev/icons?i=cs" width="22"/> C#| ▰▰▱▱▱| Learning
+
 <img src="https://skillicons.dev/icons?i=dotnet" width="22"/> .NET| ▰▰▱▱▱| Learning
+
 <img src="https://skillicons.dev/icons?i=c" width="22"/> C| ▰▰▰▱▱| Familiar
+
 <img src="https://skillicons.dev/icons?i=cpp" width="22"/> C++| ▰▰▱▱▱| Learning
+
 <img src="https://skillicons.dev/icons?i=git" width="22"/> Git| ▰▰▱▱▱| Learning
+
 <img src="https://skillicons.dev/icons?i=github" width="22"/> GitHub| ▰▰▰▱▱| Familiar
+
 <img src="https://skillicons.dev/icons?i=docker" width="22"/> Docker| ▰▰▱▱▱| Learning
 
 «Always evolving. These progress bars are just a snapshot of my current skills. They'll be updated as I gain more experience and explore new technologies.»
 
-📚 Exploring the future
+### 🚀📚 Exploring the Future
 
-- ASP.NET Core
-- SQL Server
-- Entity Framework Core
-- REST API Development
-
----
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet" width="40" title="ASP.NET Core"/>
+  <img src="https://skillicons.dev/icons?i=mssql" width="40" title="SQL Server"/>
+  <img src="https://skillicons.dev/icons?i=ef" width="40" title="Entity Framework Core"/>
+  <img src="https://skillicons.dev/icons?i=postman" width="40" title="REST API"/>
+</p>---
 
 <p align="center">
   <i>Thanks for visiting my profile!</i>
