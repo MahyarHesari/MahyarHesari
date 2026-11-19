@@ -39,11 +39,20 @@ Technology| Progress| Level
 ### 🚀📚 Exploring the Future
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet" width="40" title="ASP.NET Core"/>
-  <img src="https://skillicons.dev/icons?i=mssql" width="40" title="SQL Server"/>
-  <img src="https://skillicons.dev/icons?i=ef" width="40" title="Entity Framework Core"/>
-  <img src="https://skillicons.dev/icons?i=postman" width="40" title="REST API"/>
-</p>---
+  <img src="https://skillicons.dev/icons?i=dotnet" width="25" />
+  &nbsp; ASP.NET Core
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mssql" width="25" />
+  &nbsp; SQL Server
+  <br/>
+  <img src="https://skillicons.dev/icons?i=ef" width="25" />
+  &nbsp; Entity Framework Core
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postman" width="25" />
+  &nbsp; REST API
+</p>
+
+---
 
 <p align="center">
   <i>Thanks for visiting my profile!</i>
